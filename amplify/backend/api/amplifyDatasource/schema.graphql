@@ -1,0 +1,4 @@
+type Expense @model {
+id: ID!
+charge: String!
+amount: String!
